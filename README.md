@@ -37,9 +37,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 13>admin login details  Email=admin@gmail.com and Password=123456789.
 
-
-
-##  If you like my project hit a star button
+#If you like my project hit a star button
 
 
 
